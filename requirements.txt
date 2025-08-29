@@ -3,3 +3,6 @@ uvicorn
 python-dotenv
 websockets
 twilio
+streamlit
+pandas
+requests
